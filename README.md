@@ -1,5 +1,5 @@
 # test_repo
-For testing purpose
+For testing purpose.
 
 ## Subheader
 It is a demo repo
